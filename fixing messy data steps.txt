@@ -1,8 +1,12 @@
 Fixing messy data: 
+What I did=
 organize by species
 seperate males and females
 organize be increasing plot number
 within increasing plot number I organized with increasing date
 if any plot number and dates were the same I then put them in order by increasing weight 
+
+Things wrong with original setup=
 must assume that these are the same species 
 uliminate incomplete data 
+consistantly organize the data 
