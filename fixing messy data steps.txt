@@ -1,0 +1,4 @@
+Fixing messy data: 
+organize by species
+must assume that these are the same species 
+uliminate incomplete data 
